@@ -6,3 +6,7 @@ Writing first Markdown file
 function(1,2)
 //=>3
 ```
+
+```
+function(2,4)
+//=>6
